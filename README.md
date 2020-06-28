@@ -69,6 +69,10 @@ Whether a customer will respond to an offer or not and visualise success of an o
 https://medium.com/@shaktiyashdeep/starbucks-offers-analysis-94fb3d65942e
 
 
+## Repo link
+
+https://github.com/YashdeepShakti/StarbucksOfferAnalysis
+
 ## Requirements
 
 Anocondas distribution of python libaries
